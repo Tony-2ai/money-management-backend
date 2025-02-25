@@ -1,0 +1,14 @@
+{
+  "name": "money-management-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.1.8",
+    "node-cron": "^3.0.0",
+    "dotenv": "^16.0.3"
+  }
+}
